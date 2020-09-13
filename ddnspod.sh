@@ -5,8 +5,8 @@
 . /your_real_path/ardnspod
 
 # Combine your token ID and token together as follows
-arToken="12345,7676f344eaeaea9074c123451234512d"
+arToken="181192,989bf8676152c472d5fcba275d027f56"
 
 # Place each domain you want to check as follows
 # you can have multiple arDdnsCheck blocks
-arDdnsCheck "test.org" "subdomain"
+arDdnsCheck "clifford.top" "subdomain"
